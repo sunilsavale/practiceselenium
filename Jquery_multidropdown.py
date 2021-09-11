@@ -1,6 +1,6 @@
 #JQuery Multi Dropdown selection
 #code by Sunil Savale
-#date- 11/10/2021
+#date- 11/09/2021
 
 
 from selenium import webdriver
