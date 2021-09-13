@@ -1,3 +1,7 @@
+#Drop Down selection
+#code by sunil savale
+#Date 12/09/2021
+
 from selenium import webdriver
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.common.by import By
